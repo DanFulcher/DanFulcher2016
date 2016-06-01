@@ -50,7 +50,7 @@
 		                        <h1>Hi there! I didn't hear you come in...</h1>
 
 		                        <p><strong>Welcome to my portfolio! I’m Dan Fulcher, in case you missed the arrogantly sized logo in the header.</strong></p>
-		                        <p>I've been doing web design and development since 2012, when a spider bite left me with an eye for design, a hunger for code and the most amazing glutes the world has ever seen! Since then, I've had the oppo rtunity to work on a wide variety of websites, with a multitude of clients, and hone my skills to become the ultimate UX designer and front-end developer!</p>
+		                        <p>I've been doing web design and development since 2012, when a spider bite left me with an eye for design, a hunger for code and the most amazing glutes the world has ever seen! Since then, I've had the opportunity to work on a wide variety of websites, with a multitude of clients, and hone my skills to become the ultimate UX designer and front-end developer!</p>
 		                        <p>If you're after a nice looking site that gets results, I'm your guy! I'm passionate about good design, and through experience, I know what the user wants to see and where they expect to see it. I use this to create a site that flows and effectively uses call-to-actions to get the results you want from your project.</p>
 		                        <div class="row">
 		                            <div class="col-sm-4">
