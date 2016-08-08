@@ -5,6 +5,8 @@ $screen-lg: 1200px;
 html {
 	body {
 		font-family: 'Lato', sans-serif!important;
+	  	-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
 	}
 }
 
@@ -79,7 +81,11 @@ html {
 		width:100%;
 		left:0;
 		top:50%;
-		transform:translateY(-50%);
+		-webkit-transform: translateY(-50%);
+     	-moz-transform: translateY(-50%);
+      	-ms-transform: translateY(-50%);
+       	-o-transform: translateY(-50%);
+        transform: translateY(-50%);
 		img {
 			margin:0 auto;
 			max-width:50%;
